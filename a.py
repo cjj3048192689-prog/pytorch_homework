@@ -1,4 +1,4 @@
 import torch
 print(torch.cuda.is_available())
-print(hello)
-print(hello word)
+print("hello")
+print("hello world")
